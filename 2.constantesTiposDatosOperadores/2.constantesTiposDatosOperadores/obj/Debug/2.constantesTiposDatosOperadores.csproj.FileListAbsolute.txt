@@ -1,0 +1,7 @@
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\bin\Debug\2.constantesTiposDatosOperadores.exe.config
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\bin\Debug\2.constantesTiposDatosOperadores.exe
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\bin\Debug\2.constantesTiposDatosOperadores.pdb
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\obj\Debug\2.constantesTiposDatosOperadores.csproj.AssemblyReference.cache
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\obj\Debug\2.constantesTiposDatosOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\obj\Debug\2.constantesTiposDatosOperadores.exe
+C:\Users\Manol\Downloads\visual estudisos\2.constantesTiposDatosOperadores\2.constantesTiposDatosOperadores\obj\Debug\2.constantesTiposDatosOperadores.pdb
