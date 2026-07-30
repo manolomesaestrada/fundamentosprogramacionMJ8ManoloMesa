@@ -1,0 +1,7 @@
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\bin\Debug\variablesconstantes.exe.config
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\bin\Debug\variablesconstantes.exe
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\bin\Debug\variablesconstantes.pdb
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\obj\Debug\variablesconstantes.csproj.AssemblyReference.cache
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\obj\Debug\variablesconstantes.csproj.CoreCompileInputs.cache
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\obj\Debug\variablesconstantes.exe
+C:\Users\B09s104est\Downloads\manolo\fundamentosprogramacionMJ8ManoloMesa\variablesconstantes\variablesconstantes\obj\Debug\variablesconstantes.pdb
