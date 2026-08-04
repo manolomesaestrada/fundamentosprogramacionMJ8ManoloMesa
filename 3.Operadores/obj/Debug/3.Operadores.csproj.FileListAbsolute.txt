@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\bin\Debug\3.Operadores.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\bin\Debug\3.Operadores.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\bin\Debug\3.Operadores.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\obj\Debug\3.Operadores.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\obj\Debug\3.Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\obj\Debug\3.Operadores.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\3.Operadores\obj\Debug\3.Operadores.pdb
