@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\bin\Debug\4.condicionalsimpledoble.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\bin\Debug\4.condicionalsimpledoble.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\bin\Debug\4.condicionalsimpledoble.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\obj\Debug\4.condicionalsimpledoble.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\obj\Debug\4.condicionalsimpledoble.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\obj\Debug\4.condicionalsimpledoble.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\4.condicionalsimpledoble\obj\Debug\4.condicionalsimpledoble.pdb
