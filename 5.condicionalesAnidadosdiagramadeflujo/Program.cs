@@ -35,19 +35,20 @@ namespace _5.condicionalesAnidadosdiagramadeflujo
             }
             else
             {
-               
+
                 //falso
                 if (num2 > num3)
                 {
-                  Console.WriteLine("el numero mayor es: " + num2);
+                    Console.WriteLine("el numero mayor es: " + num2);
                 }
                 else
                 {
                     Console.WriteLine("el numero mayor es: " + num3);
                 }
-                
+
             }
         }
     }
+}
 
 
