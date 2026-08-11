@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\bin\Debug\5.condicionalesAnidadosdiagramadeflujo.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\bin\Debug\5.condicionalesAnidadosdiagramadeflujo.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\bin\Debug\5.condicionalesAnidadosdiagramadeflujo.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\obj\Debug\5.condicionalesAnidadosdiagramadeflujo.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\obj\Debug\5.condicionalesAnidadosdiagramadeflujo.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\obj\Debug\5.condicionalesAnidadosdiagramadeflujo.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\5.condicionalesAnidadosdiagramadeflujo\obj\Debug\5.condicionalesAnidadosdiagramadeflujo.pdb
