@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\obj\Debug\7.tallerfundamentos.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\obj\Debug\7.tallerfundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\bin\Debug\7.tallerfundamentos.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\bin\Debug\7.tallerfundamentos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\bin\Debug\7.tallerfundamentos.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\obj\Debug\7.tallerfundamentos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\7.tallerfundamentos\obj\Debug\7.tallerfundamentos.pdb
