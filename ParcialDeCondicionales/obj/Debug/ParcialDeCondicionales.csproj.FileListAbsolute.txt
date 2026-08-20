@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\bin\Debug\ParcialDeCondicionales.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\bin\Debug\ParcialDeCondicionales.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\bin\Debug\ParcialDeCondicionales.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\obj\Debug\ParcialDeCondicionales.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\obj\Debug\ParcialDeCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\obj\Debug\ParcialDeCondicionales.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\ParcialDeCondicionales\obj\Debug\ParcialDeCondicionales.pdb
