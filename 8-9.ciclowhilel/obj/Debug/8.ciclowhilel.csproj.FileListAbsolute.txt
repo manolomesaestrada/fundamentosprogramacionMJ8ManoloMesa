@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\bin\Debug\8.ciclowhilel.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\bin\Debug\8.ciclowhilel.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\bin\Debug\8.ciclowhilel.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\obj\Debug\8.ciclowhilel.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\obj\Debug\8.ciclowhilel.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\obj\Debug\8.ciclowhilel.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\8.ciclowhilel\obj\Debug\8.ciclowhilel.pdb
