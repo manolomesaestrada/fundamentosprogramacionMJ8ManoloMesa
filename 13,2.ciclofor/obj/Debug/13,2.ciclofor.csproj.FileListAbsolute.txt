@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\bin\Debug\13,2.ciclofor.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\bin\Debug\13,2.ciclofor.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\bin\Debug\13,2.ciclofor.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\obj\Debug\13,2.ciclofor.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\obj\Debug\13,2.ciclofor.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\obj\Debug\13,2.ciclofor.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\13,2.ciclofor\obj\Debug\13,2.ciclofor.pdb
