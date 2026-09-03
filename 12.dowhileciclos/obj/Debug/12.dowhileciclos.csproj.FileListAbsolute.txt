@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\bin\Debug\12.dowhileciclos.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\bin\Debug\12.dowhileciclos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\bin\Debug\12.dowhileciclos.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\obj\Debug\12.dowhileciclos.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\obj\Debug\12.dowhileciclos.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\obj\Debug\12.dowhileciclos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\12.dowhileciclos\obj\Debug\12.dowhileciclos.pdb
