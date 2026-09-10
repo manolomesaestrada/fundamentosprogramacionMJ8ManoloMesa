@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\bin\Debug\14.tallerciclos.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\bin\Debug\14.tallerciclos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\bin\Debug\14.tallerciclos.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\obj\Debug\14.tallerciclos.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\obj\Debug\14.tallerciclos.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\obj\Debug\14.tallerciclos.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.tallerciclos\obj\Debug\14.tallerciclos.pdb
