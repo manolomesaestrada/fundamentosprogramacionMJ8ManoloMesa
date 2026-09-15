@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\bin\Debug\14.01arreglosunidimensionales.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\bin\Debug\14.01arreglosunidimensionales.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\bin\Debug\14.01arreglosunidimensionales.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\obj\Debug\14.01arreglosunidimensionales.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\obj\Debug\14.01arreglosunidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\obj\Debug\14.01arreglosunidimensionales.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\14.01arreglosunidimensionales\obj\Debug\14.01arreglosunidimensionales.pdb
