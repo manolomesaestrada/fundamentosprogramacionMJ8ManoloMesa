@@ -1,0 +1,7 @@
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\bin\Debug\taller matricez.exe.config
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\bin\Debug\taller matricez.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\bin\Debug\taller matricez.pdb
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\obj\Debug\taller matricez.csproj.AssemblyReference.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\obj\Debug\taller matricez.csproj.CoreCompileInputs.cache
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\obj\Debug\taller matricez.exe
+C:\Users\Manol\source\repos\fundamentosprogramacionMJ8ManoloMesa\taller matricez\obj\Debug\taller matricez.pdb
